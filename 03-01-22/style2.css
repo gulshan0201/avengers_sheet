@@ -1,0 +1,61 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#main{
+  text-align: center;
+}
+
+input[type=text]{
+  padding: 9px;
+}
+
+.btn-1 button{
+  background-color: lightblue;
+  padding: 9px;
+  border: none;
+  border-radius: 18px;
+  font-size: 15px;
+}
+
+.btn-2 button{
+  background-color: rgb(206, 177, 138);
+  padding: 9px;
+  border: none;
+  border-radius: 18px;
+  font-size: 15px;
+  margin: 12px;
+}
+
+#size{
+  padding-left: 37px;
+}
+
+.btn-3 button{
+  background-color: rgb(112, 216, 190);
+  padding: 10px;
+  border: none;
+  border-radius: 18px;
+  font-size: 15px;
+  margin: 12px;
+}
+
+.btn-4 button{
+  background-color: rgb(214, 160, 190);
+  padding: 9px;
+  border: none;
+  border-radius: 18px;
+  font-size: 15px;
+  margin: 12px;
+}
+
+.btn-5 button {
+  background-color: rgb(226, 167, 159);
+  padding: 15px;
+  border: none;
+  border-radius: 18px;
+  font-size: 17px;
+  margin: 12px;
+}
