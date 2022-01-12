@@ -1,0 +1,17 @@
+body {
+  background-color: #A267AC;
+  margin: 50px 50px;
+}
+
+h1{
+  text-align: center;
+}
+
+.container > h2{
+  color: #FAEDF0;
+}
+
+.container p{
+  font-size: medium;
+  font-weight: bolder;
+}
