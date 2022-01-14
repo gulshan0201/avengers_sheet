@@ -1,0 +1,38 @@
+.container{
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.header{
+  background-color: #24A19C;
+  height: 35px;
+  text-align: center;
+}
+
+.header h3 {
+  padding-top: 5px;
+}
+
+.para{
+  background-color: #FFBCD1;
+  padding: 15px;
+}
+
+.aside1{
+  background-color: #96CEB4;
+  text-align: center;
+  padding: 6px;
+}
+
+.aside2 {
+  background-color: #E7FBBE;
+  text-align: center;
+  padding: 6px;
+}
+
+.footer{
+  background-color: #AEFEFF;
+  text-align: center;
+  padding: 6px;
+}
