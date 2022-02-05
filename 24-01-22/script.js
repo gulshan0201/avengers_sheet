@@ -2,12 +2,11 @@ var table = document.getElementById("table");
 var addurl = "https://api2.binance.com/api/v3/ticker/24hr";
 fetch (addurl)
 .then((response) => {
-  // console.log('table')
 
   return response.json();
 })
 .then((data) => {
-  // console.log("table start");
+
   console.log(data);
   var tr = document.createElement("tr");
   var td1 = document.createElement("th");
